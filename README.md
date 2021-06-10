@@ -17,7 +17,7 @@ UI Clone - Tesla
 
 [<img src="https://avatars.githubusercontent.com/u/63281362?v=4" width="75px;"/>](https://github.com/flami22)
 
-[Guilherme Rodz](https://github.com/flami22)
+[João Henrique](https://github.com/flami22)
 
 ## Techs
 
